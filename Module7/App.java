@@ -94,7 +94,7 @@ public class App {
 
 	public static void main(String[] args) {
 		App app = new App();
-		app.loadWords("input.txt");
+		app.loadWords("/home/amarin/workspace/CEN3024C-Class/Module7/input.txt");
 	}
 
 }
